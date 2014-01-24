@@ -1,4 +1,3 @@
-nerd-microblog
-==============
+[![Build Status](https://travis-ci.org/john-brunelle/nerd-microblog.png)](https://travis-ci.org/john-brunelle/nerd-microblog)
 
-Nerd Project : Playing with CI
+# Microblog
